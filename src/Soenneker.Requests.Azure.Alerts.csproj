@@ -14,7 +14,7 @@
         <AssemblyName>Soenneker.Requests.Azure.Alerts</AssemblyName>
         <PackageId>Soenneker.Requests.Azure.Alerts</PackageId>
         <PackageTags>requests azure alerts alert schema common request commonalertschemarequest object csharp dotnet c# .net</PackageTags>
-        <Copyright>Copyright © 2025 Jake Soenneker</Copyright>
+        <Copyright>Copyright © 2025-2026 Jake Soenneker</Copyright>
         <Authors>Jake Soenneker</Authors>
         <Company>https://soenneker.com</Company>
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
