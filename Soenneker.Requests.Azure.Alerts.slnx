@@ -4,10 +4,11 @@
   </Folder>
   <Folder Name="/.github/workflows/">
     <File Path=".github/workflows/build-and-test.yml" />
+    <File Path=".github/workflows/codeql.yml" />
     <File Path=".github/workflows/publish-package.yml" />
   </Folder>
   <Folder Name="/src/">
-    <Project Path="src/Soenneker.Requests.Azure.Alerts.csproj" />
+    <Project Path="src/Soenneker.Requests.Azure.Alerts/Soenneker.Requests.Azure.Alerts.csproj" />
   </Folder>
   <Folder Name="/test/">
     <Project Path="test/Soenneker.Requests.Azure.Alerts.Tests/Soenneker.Requests.Azure.Alerts.Tests.csproj" />

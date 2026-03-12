@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\src\Soenneker.Requests.Azure.Alerts.csproj" />
+        <ProjectReference Include="..\..\src\Soenneker.Requests.Azure.Alerts\Soenneker.Requests.Azure.Alerts.csproj" />
     </ItemGroup>
 
     <ItemGroup>
