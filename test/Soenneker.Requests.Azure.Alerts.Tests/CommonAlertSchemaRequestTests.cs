@@ -1,11 +1,10 @@
-﻿using Soenneker.Tests.Unit;
-using Xunit;
+using Soenneker.Tests.Unit;
 
 namespace Soenneker.Requests.Azure.Alerts.Tests;
 
 public sealed class CommonAlertSchemaRequestTests : UnitTest
 {
-    [Fact]
+    [Test]
     public void Default()
     {
 
